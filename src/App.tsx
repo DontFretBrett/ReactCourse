@@ -4,7 +4,7 @@ function App() {
   return (
     <div>
       <ListGroup />
-    </div>
+      </div>
   );
 }
 
