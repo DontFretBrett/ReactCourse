@@ -11,7 +11,9 @@ node -v # should print `v20.15.1`
 npm -v # should print `10.7.0`
 
 npm create vite@latest
+
 npm i
+
 npm run dev
 
 # React + TypeScript + Vite
