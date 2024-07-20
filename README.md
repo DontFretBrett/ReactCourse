@@ -1,5 +1,6 @@
 Created by following this course:
-https://www.youtube.com/watch?v=SqcY0GlETPk
+
+[![React](https://img.youtube.com/vi/SqcY0GlETPk/0.jpg)](https://www.youtube.com/watch?v=SqcY0GlETPk)
 
 # React + TypeScript + Vite
 
